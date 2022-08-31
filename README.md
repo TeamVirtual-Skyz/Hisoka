@@ -1,9 +1,9 @@
 # Hisoka-Morrow
 
 <p align="center">
-	<img src="https://telegra.ph/file/ae5237e860bbe4ac2f0a8.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/14a1a7704fb054da8a95c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morrow</h1>
+<h1 align="center">TeamVirtual 🇮🇩</h1>
 
 ## Set Setting 
 * set number owner & set api on [this](https://github.com/DikaArdnt/Hisoka-Morrow/blob/master/config.js) file
