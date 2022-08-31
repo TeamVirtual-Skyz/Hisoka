@@ -1,4 +1,4 @@
-# Hisoka-Morrow
+# TeamVirtual-Skyz
 
 <p align="center">
 	<img src="https://telegra.ph/file/14a1a7704fb054da8a95c.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
