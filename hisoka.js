@@ -335,7 +335,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
             break
             case 'owner': case 'developer': {
                 let mowner = await hisoka.sendContactArray(m.chat, owner.map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net'), { quoted: m })
-                hisoka.sendText(m.chat, 'Tuh Kontak Ownerku, Maaf Kalo Orangnya Kek Kntl', mowner)
+                hisoka.sendText(m.chat, 'Nih Kontak Ownerku, Maaf Kalo Orangnya Kek Kntl', mowner)
             }
             break
             case 'help': case 'menu': {
@@ -360,7 +360,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 │⭔ ${prefix}cekwarning
 │
 └───────⭓
-
+发 ᴘᴜᴛʀᴀ• 🇮🇩
 ┌──⭓ *Converter Menu*
 │
 │⭔ ${prefix}toimage
@@ -369,7 +369,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 │⭔ ${prefix}sticker
 │
 └───────⭓
-
+发 ᴘᴜᴛʀᴀ• 🇮🇩
 ┌──⭓ *Other Menu*
 │
 │⭔ ${prefix}ping
@@ -379,13 +379,13 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 │⭔ ${prefix}q
 │
 └───────⭓
-
+发 ᴘᴜᴛʀᴀ• 🇮🇩
 ┌──⭓ *Search Menu*
 │
 │⭔ ${prefix}pinterest
 │
 └───────⭓
-
+发 ᴘᴜᴛʀᴀ• 🇮🇩
 ┌──⭓ *Nsfw Menu*
 │
 │⭔ ${prefix}hentai
@@ -403,7 +403,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate) => {
 │⭔ ${prefix}pussy
 │
 └───────⭓
-
+发 ᴘᴜᴛʀᴀ• 🇮🇩
 ┌──⭓ *Database Menu*
 │
 │⭔ ${prefix}setcmd
